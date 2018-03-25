@@ -1,0 +1,8 @@
+dist
+readme_images
+test
+node_modules/
+.idea/
+coverage
+npm-debug.log
+.vscode
